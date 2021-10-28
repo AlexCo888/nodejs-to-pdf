@@ -17,3 +17,4 @@ There are two important fields in this this repository:
 
 - [`index.js`](index.js) is the main entry point. It defines the data structure used to create the contracts.
 - [`createContract.js`](createContract.js) exports a function that can be used to create contract PDFs.
+
